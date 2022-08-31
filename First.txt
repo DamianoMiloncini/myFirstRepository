@@ -3,3 +3,5 @@ Here is some new text
 Here is my first file
 Hello
 Have a good day
+
+ALso adding lines at the bottom too
